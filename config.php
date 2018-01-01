@@ -2,7 +2,7 @@
 $DBConfig = [
 	"host" => "localhost",
 	"user" => "root",
-	"pass" => "root",
+	"pass" => "",
 	"database" => "cryptoseed"
 ];
 $CryptoName = "BitZeny";
